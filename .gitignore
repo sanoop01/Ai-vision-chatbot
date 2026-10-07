@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit secrets (Never commit real API keys)
+.streamlit/secrets.toml
